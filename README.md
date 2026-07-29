@@ -51,6 +51,6 @@ I specialize in taking complex information and making it clear, approachable, an
 
 # Contact
 
-LinkedIn: Coming soon
+LinkedIn: [Brittany Crow](https://www.linkedin.com/in/b-crow/)
 
-Email: Coming soon
+Email: [brittany.m.crow@gmail.com](mailto:brittany.m.crow@gmail.com)
