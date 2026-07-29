@@ -47,7 +47,7 @@ This project includes:
 
 ### Product Documentation
 
-📘 [Release Notes](./technical-writing/release-notes/vol2day-july-2026.md)
+📘 📘 [Release Notes](./technical-writing/release-notes/vol2day-july-2026.md)
 
 📖 [Knowledge Base Article](./technical-writing/knowledge-base/creating-a-volunteer-event.md)
 
