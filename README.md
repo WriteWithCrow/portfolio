@@ -25,7 +25,7 @@ I help organizations transform complex products, processes, and ideas into docum
 
 I combine technical writing expertise with a background in knowledge management, customer education, and content strategy.
 
-My approach focuses on creating documentation that is not only accurate, but useful — helping users find answers, complete tasks, and feel confident using a product.
+My approach focuses on creating documentation that is not only accurate but useful — helping users find answers, complete tasks, and feel confident using a product.
 
 ---
 
@@ -33,7 +33,17 @@ My approach focuses on creating documentation that is not only accurate, but use
 
 ## Vol2day Volunteer Management Platform
 
-A fictional SaaS documentation project demonstrating product communication, user education, and knowledge management skills.
+A complete fictional SaaS documentation suite demonstrating how I approach product education, user support, and internal process documentation.
+
+This project includes:
+
+- Customer-facing release notes
+- Knowledge base content
+- Administrator documentation
+- Internal SOPs
+- Staff training materials
+
+---
 
 ### Product Documentation
 
