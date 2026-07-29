@@ -1,5 +1,18 @@
 # Vol2day Release Notes
 
+## Project Overview
+
+**Product:** Vol2day Volunteer Management Platform  
+**Document Type:** Customer-Facing Release Notes  
+**Audience:** Volunteer coordinators, nonprofit administrators, and event staff  
+
+**Skills Demonstrated:**
+- Product communication
+- Customer-focused writing
+- Feature documentation
+- Release communication
+- Translating product updates into user benefits
+
 ## July 2026 Product Update
 
 We're excited to share the latest improvements to Vol2day! This release includes new tools designed to make volunteer coordination easier, improve staff workflows, and help organizations create better experiences for their communities.
