@@ -43,6 +43,8 @@ This project includes:
 - Internal SOPs
 - Staff training materials
 
+- Portfolio Disclaimer: Vol2day is a fictional volunteer management platform created solely to demonstrate technical writing, documentation strategy, and content development skills. It is not affiliated with or representative of any current or former employer, product, or organization.
+
 ---
 
 ### Product Documentation
