@@ -1,10 +1,8 @@
-# Creative Writing Portfolio
+# Fiction Samples
 
-Welcome to my creative writing portfolio.
+Selected excerpts and short works showcasing my fiction writing.
 
-I write character-driven stories exploring the darker corners of human nature, impossible choices, extraordinary worlds, and the relationships that shape us.
-
-My work blends emotional depth with elements of:
+## Genres
 
 - Supernatural Fiction
 - Psychological Horror
@@ -12,26 +10,11 @@ My work blends emotional depth with elements of:
 - Science Fiction
 - Romance
 
-## Writing Style
-
-My stories focus on:
-
-- Complex characters
-- High emotional stakes
-- Moral dilemmas
-- Atmospheric settings
-- Relationships tested by extraordinary circumstances
-
-## Writing Samples
+## Samples
 
 Coming soon:
 
-- Supernatural Fiction
-- Dark Fantasy
-- Psychological Horror
-- Speculative Fiction
-- Romance
-
-## Current Projects
-
-Coming soon.
+- Supernatural Thriller Opening
+- Fantasy Romance Excerpt
+- Psychological Horror Short Story
+- Speculative Fiction Scene
