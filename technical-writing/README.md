@@ -10,7 +10,7 @@ This portfolio demonstrates my approach to creating clear, user-focused document
 
 A fictional SaaS documentation project created to demonstrate technical writing, documentation strategy, and user education skills.
 
-This project includes:
+**This project includes:**
 
 - Release Notes
 - Knowledge Base Articles
@@ -18,7 +18,7 @@ This project includes:
 - Standard Operating Procedures
 - Training Materials
 
-- Portfolio Disclaimer: Vol2day is a fictional volunteer management platform created solely to demonstrate technical writing, documentation strategy, and content development skills. It is not affiliated with or representative of any current or former employer, product, or organization.
+**Portfolio Disclaimer**: Vol2day is a fictional volunteer management platform created solely to demonstrate technical writing, documentation strategy, and content development skills. It is not affiliated with or representative of any current or former employer, product, or organization.
 
 ## Documentation Samples
 
