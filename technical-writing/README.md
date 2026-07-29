@@ -18,17 +18,20 @@ This project includes:
 - Standard Operating Procedures
 - Training Materials
 
+- Portfolio Disclaimer: Vol2day is a fictional volunteer management platform created solely to demonstrate technical writing, documentation strategy, and content development skills. It is not affiliated with or representative of any current or former employer, product, or organization.
+
 ## Documentation Samples
 
 📘 [Release Notes](./release-notes/vol2day-july-2026.md)
 
-📖 Knowledge Base Articles
+📖 [Knowledge Base Article](./knowledge-base/creating-a-volunteer-event.md)
 
-📚 User Guides
+📚 [Administrator User Guide](./user-guides/vol2day-administrator-getting-started.md)
 
-📋 Standard Operating Procedures
+📋 [Standard Operating Procedure](./sop/vol2day-event-check-in-process.md)
 
-🎓 Training Materials
+🎓 [Staff Training Guide](./training/vol2day-staff-training-guide.md) 
+
 
 ## Skills Demonstrated
 
