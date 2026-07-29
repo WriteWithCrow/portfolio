@@ -21,6 +21,14 @@ I help organizations transform complex products, processes, and ideas into docum
 
 ---
 
+## Why Work With Me
+
+I combine technical writing expertise with a background in knowledge management, customer education, and content strategy.
+
+My approach focuses on creating documentation that is not only accurate, but useful — helping users find answers, complete tasks, and feel confident using a product.
+
+---
+
 # Portfolio Samples
 
 ## Vol2day Volunteer Management Platform
