@@ -67,6 +67,14 @@ I specialize in taking complex information and making it clear, approachable, an
 
 ---
 
+## Creative Writing Portfolio
+
+Coming soon.
+
+Explore my fiction work, including supernatural fiction, psychological horror, fantasy, science fiction, and romance.
+
+---
+
 # Contact
 
 📍 LinkedIn: [Brittany Crow](https://www.linkedin.com/in/b-crow/)
