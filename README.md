@@ -1,42 +1,56 @@
 # Write With Crow
 
-## Professional Writing Portfolio
+## Technical Writing Portfolio
 
-Hi, I'm Brittany Crow — a technical writer specializing in documentation, knowledge management, and making complex information easier to understand.
+Hi, I'm Brittany Crow — a technical writer specializing in documentation, knowledge management, and creating clear, user-focused content.
 
-This portfolio showcases examples of:
+I help organizations transform complex products, processes, and ideas into documentation that helps people succeed.
 
-- Technical documentation
-- Knowledge base articles
-- Release notes
-- User guides
-- Standard operating procedures
-- Product education content
+---
 
-## About Me
+# Professional Writing Services
 
-I help organizations transform complicated processes, products, and ideas into clear, user-friendly content.
+- Technical Documentation
+- Knowledge Base Development
+- Release Notes
+- User Guides
+- Standard Operating Procedures
+- Training Materials
+- Content Audits
+- Product Education
 
-My background includes:
+---
 
-- Technical writing
-- Knowledge management
-- SaaS documentation
-- Product education
-- Customer-facing content
+# Portfolio Samples
 
-## Portfolio Samples
+## Vol2day Volunteer Management Platform
 
-Coming soon:
+A fictional SaaS documentation project demonstrating product communication, user education, and knowledge management skills.
 
-📘 Knowledge Base Articles  
-📝 Release Notes  
-📚 User Guides  
-📋 SOPs & Process Documentation  
-🎓 Training Materials  
+### Product Documentation
 
-## Contact
+📘 [Release Notes](./technical-writing/release-notes/vol2day-july-2026.md)
 
-LinkedIn: [Coming soon]
+📖 [Knowledge Base Article](./technical-writing/knowledge-base/creating-a-volunteer-event.md)
 
-Email: [Coming soon]
+📚 [Administrator User Guide](./technical-writing/user-guides/vol2day-administrator-getting-started.md)
+
+📋 [Standard Operating Procedure](./technical-writing/sop/vol2day-event-check-in-process.md)
+
+🎓 [Staff Training Guide](./technical-writing/training/vol2day-staff-training-guide.md)
+
+---
+
+# About Me
+
+My background combines technical writing, knowledge management, customer education, and content strategy.
+
+I specialize in taking complex information and making it clear, approachable, and actionable for the people who need it.
+
+---
+
+# Contact
+
+LinkedIn: Coming soon
+
+Email: Coming soon
