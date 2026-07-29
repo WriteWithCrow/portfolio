@@ -35,7 +35,7 @@ My approach focuses on creating documentation that is not only accurate but usef
 
 A complete fictional SaaS documentation suite demonstrating how I approach product education, user support, and internal process documentation.
 
-This project includes:
+**This project includes:**
 
 - Customer-facing release notes
 - Knowledge base content
@@ -43,7 +43,7 @@ This project includes:
 - Internal SOPs
 - Staff training materials
 
-- Portfolio Disclaimer: Vol2day is a fictional volunteer management platform created solely to demonstrate technical writing, documentation strategy, and content development skills. It is not affiliated with or representative of any current or former employer, product, or organization.
+**Portfolio Disclaimer**: Vol2day is a fictional volunteer management platform created solely to demonstrate technical writing, documentation strategy, and content development skills. It is not affiliated with or representative of any current or former employer, product, or organization.
 
 ---
 
