@@ -27,6 +27,18 @@ I combine technical writing expertise with a background in knowledge management,
 
 My approach focuses on creating documentation that is not only accurate but useful — helping users find answers, complete tasks, and feel confident using a product.
 
+## Problems I Help Solve
+
+✓ Users can't find answers in existing documentation
+
+✓ Support teams answer the same questions repeatedly
+
+✓ Product updates lack clear customer communication
+
+✓ Documentation exists but has no structure or governance
+
+✓ Complex workflows need to be simplified for users
+
 ---
 
 # Portfolio Samples
