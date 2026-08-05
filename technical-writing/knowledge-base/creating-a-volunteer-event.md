@@ -14,9 +14,12 @@ The goal was to create a clear, task-based article that helps organization admin
 
 **Skills Demonstrated:**
 - User-focused documentation
-- Step-by-step instruction
+- Task-based instructional writing
+- Knowledge base development
 - Information architecture
-- Simplifying complex workflows
+- Workflow simplification
+- Self-service support optimization
+- Troubleshooting documentation
 
 ---
 
