@@ -1,5 +1,11 @@
 # Creating a Volunteer Event in Vol2day
 
+## Documentation Case Study
+
+This knowledge base article demonstrates how I approach customer-facing SaaS documentation by guiding users through a common workflow while reducing support friction.
+
+The goal was to create a clear, task-based article that helps organization administrators successfully create and publish volunteer opportunities without additional support assistance.
+
 ## Project Overview
 
 **Product:** Vol2day Volunteer Management Platform  
